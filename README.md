@@ -1,1 +1,2 @@
-# C-34-project
+# VitualPetProject34
+class 34 project errors
